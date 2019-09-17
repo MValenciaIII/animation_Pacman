@@ -1,0 +1,367 @@
+.main {
+    position: relative;
+    margin: auto;
+    width: 1500px;
+    height: 1000px;
+    background-color: rgb(0, 0, 0);
+}
+
+.main1 {
+    display: delay1;
+    position: relative;
+    width: 400px;
+    height: 50px;
+    top: 200px;
+    left: 250px;
+}
+
+.main2 {
+    display: delay1;
+    position: relative;
+    width: 500px;
+    height: 50px;
+    top: 200px;
+    left: 250px;
+}
+
+.main3 {
+    position: relative;
+    width: 600px;
+    height: 50px;
+    top: 200px;
+    left: 200px;
+}
+
+.main4 {
+    display: delay1;
+    position: relative;
+    width: 600px;
+    height: 50px;
+    top: 200px;
+    left: 200px;
+}
+
+.delay1 {
+    animation-name: delayblock;
+    animation-duration: .5s;
+    animation-timing-function: step-end;
+    animation-delay: .3s;
+    animation-iteration-count: infinite
+}
+
+@keyframes delayblock {
+    0% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: black;
+    }
+    100% {
+        background: yellow;
+    }
+}
+
+
+.main5 {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 200px;
+    left: 150px; 
+}
+
+.main6 {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 200px;
+    left: 150px; 
+}
+
+.main7 {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 200px;
+    left: 150px; 
+}
+
+.main8 {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 200px;
+    left: 150px; 
+}
+
+.main9 {
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 200px;
+    left: 150px; 
+}
+
+.main10 {
+    position: relative;
+    width: 600px;
+    height: 50px;
+    top: 200px;
+    left: 200px;
+}
+
+.main11 {
+    position: relative;
+    width: 600px;
+    height: 50px;
+    top: 200px;
+    left: 200px;
+}
+
+
+.block1 {
+    float: right;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+.main12 {
+    position: relative;
+    width: 400px;
+    height: 50px;
+    top: 200px;
+    left: 250px;
+}
+
+.main13 {
+    position: relative;
+    width: 500px;
+    height: 50px;
+    top: 200px;
+    left: 250px;
+}
+
+
+
+.square1 {
+    display: block1;
+}
+
+.square2 {
+    display: block1;
+}
+
+.square3 {
+    display: block1;
+}
+
+.square4 {
+    display: block1;
+}
+
+.square5 {
+    display: block1;
+}
+
+.square6 {
+    display: block1;
+}
+
+.square7 {
+    display: block1;
+}
+
+.square8 {
+    display: block1;
+}
+
+.square9 {
+    display: block1;
+}
+
+.square10 {
+    display: block1;
+}
+
+.square11 {
+    display: block1;
+}
+
+
+.square12 {
+    display: block1;
+}
+
+.square13 {
+    display: block1;
+}
+.square14 {
+    display: block1;
+}
+.square15 {
+    display: block1;
+}
+.square16 {
+    display: block1;
+}
+
+.square17 {
+    display: block1;
+}
+.square18 {
+    display: block1;
+}
+.square19 {
+    display: block1;
+}
+.square20 {
+    display: block1;
+}
+.square21 {
+    display: block1;
+}
+.square22 {
+    display: block1;
+}
+.square23 {
+    display: block1;
+}
+.square24 {
+    display: block1;
+}
+.square25 {
+    display: block1;
+}
+.square26 {
+    display: block1;
+}
+.square27 {
+    display: block1;
+}
+.square28 {
+    display: block1;
+}
+.square29 {
+    display: block1;
+}
+.square30 {
+    display: block1;
+}
+.square31 {
+    display: block1;
+}
+.square32 {
+    display: block1;
+}
+.square33 {
+    display: block1;
+}
+.square34 {
+    display: block1;
+}
+.square35 {
+    display: block1;
+}
+.square36 {
+    display: block1;
+}
+.square37 {
+    display: block1;
+}
+.square38 {
+    display: block1;
+}
+.square39 {
+    display: block1;
+}
+.square40 {
+    display: block1;
+}
+.square41 {
+    display: block1;
+}
+.square42 {
+    display: block1;
+}
+.square43 {
+    display: block1;
+}
+.square44 {
+    display: block1;
+}
+.square45 {
+    display: block1;
+}
+.square46 {
+    display: block1;
+}
+.square47 {
+    display: block1;
+}
+.square48 {
+    display: block1;
+}
+.square49 {
+    display: block1;
+}
+.square50 {
+    display: block1;
+}
+.square51 {
+    display: block1;
+}
+.square52 {
+    display: block1;
+}
+.square53 {
+    display: block1;
+}
+.square54 {
+    display: block1;
+}
+
+.animation {
+    animation-name: blinking;
+    animation-duration: .5s;
+    animation-timing-function: step-start;
+    animation-delay: .5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blinking {
+    0% {
+        background-color: yellow;
+    }
+    50% {
+        background-color: black;
+    }
+    75% {
+        background-color: black;
+    }
+    100% {
+        background-color: yellow;
+    }
+}
+
+.whiteline {
+    /* z-index: 2; */
+    position: absolute;
+    width: 650px;
+    height: 50px;
+    top: 500px;
+    left: 800px;
+}
+
+.whiteblock {
+    background-color: white;
+    width: 50px;height: 50px;
+    float: right;
+}
+
+.blackblock {
+    background-color: black;
+    width: 50px;height: 50px;
+    float: right;
+}
